@@ -17,4 +17,4 @@ This is a static website for a Medical Clinic, showcasing the clinic's different
 
 ## Live Demo
 
-See the website in action: [Medical Clinic Landing Page Demo](link_to_live_demo_here)
+See the website in action: [Medical Clinic Landing Page Demo](https://medical-recovery.vercel.app/)
